@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(images/1614789233_13-p-fon-dlya-avatarki-16.jpg);
+    background-size: cover;
+    
+    overflow: hidden;
+    color: white;
+    font-weight: 600;
+}
+
+button {
+    padding: 10px 20px;
+    background:  linear-gradient(to right, rgb(95, 5, 179), #4d17ca);
+    border-radius: 20px;
+    box-shadow: 2px 4px 2px gold;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin: 20px 10px;
+}
+p{
+    font-size: 18px;
+}
+#result{
+    color: gold;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    border-radius: 15px;
+    width: 800px;
+    background-color: rgba(0, 0, 0, 0.644);
+}
+#ozenka{
+    color: gold;
+}
+#ozenka_2{
+    color: gold;
+}
